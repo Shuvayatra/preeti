@@ -1,6 +1,6 @@
 {
   "name": "preeti",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert Nepali Preeti ASCII font to Unicode",
   "main": "preeti.js",
   "scripts": {
